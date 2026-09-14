@@ -12,5 +12,3 @@ int main(){
     cout<<area<<endl;
     return 0;
 }
-
-
